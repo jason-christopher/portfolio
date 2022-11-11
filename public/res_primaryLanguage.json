@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Jason Christopher. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Software Developer | Senior Air Battle Manager | TS-SCI",
+      "description": "Software developer specializing in JavaScript and Python. Air Force veteran with 10+ years of experience with leading teams of combat aviators. Squadron’s top instructor and “Top Graduate” of multiple military training courses. Subject-matter expert selected to validate Boeing's software updates, manage courseware development, and author 1,600 pages of courseware and governing documents for the $2.9 billion E-3G fleet upgrade. I'm now pivoting my skills towards software development by utilizing my experiences of solving problems and making processes more efficient.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -81,9 +81,9 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "U.S. Air Force Reserves",
+        "title": "Senior Air Battle Manager",
+        "years": "May 2020 - present",
         "mainTech": [
           "Angular 8/9/10"
         ],
@@ -100,11 +100,11 @@
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "The Intellekt Group",
+        "title": "Mission Coordinator",
+        "years": "Aug 2020 -  Aug 2022",
         "mainTech": [
-          "Angular 7/8"
+          "Microsoft Excel"
         ],
         "technologies": [
           "RxJS",
@@ -112,6 +112,25 @@
           "PHP",
           "JavaScript",
           "DHTMLX Gantt"
+        ]
+      },
+      {
+        "company": "U.S. Air Force",
+        "title": "Flight Commander / Evaluator Surveillance Officer",
+        "years": "May 2012 - May 2020",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          ".NET Core",
+          "SignalR",
+          "Angular Material"
         ]
       }
     ]
