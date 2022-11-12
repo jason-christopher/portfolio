@@ -11,126 +11,131 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Final Project Placeholder",
+        "startDate": "2022",
+        "description": "The best application you've ever seen.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/project/p1.jpg",
+          "images/portfolio/project/p2.jpg"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
           {
             "class": "devicon-react-original",
             "name": "React"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Pocket Pantry",
+        "startDate": "2022",
+        "description": "Allows the user to select ingredients in their kitchen to output a list of recipes that match those ingredients. If there are no matches, the app will recommend a recipe that is just one ingredient away from being able to be made. A full list of ingredients and step-by-step directions for each recipe is included.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/pocket-pantry/Pocket-Pantry.jpeg",
+          "images/portfolio/pocket-pantry/Pocket-Pantry.jpeg"
         ],
-        "url": "https://github.com",
+        "url": "https://brenda70904.github.io/meal-recommendation-app/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          }
+        ]
+      },
+      {
+        "title": "Odd Duck",
+        "startDate": "2022",
+        "description": "One of the first apps I made that allows the user select images that the ODd Duck company will use in a future publication. After 25 votes, the user can view the results or clear the data and start again",
+        "images": [
+          "images/portfolio/odd-duck/Odd-Duck.jpeg",
+          "images/portfolio/odd-duck/Odd-Duck.jpeg"
+        ],
+        "url": "https://jason-christopher.github.io/odd-duck/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "U.S. Air Force Reserves",
-        "title": "Senior Air Battle Manager",
-        "years": "May 2020 - present",
+        "company": "Code-301",
+        "title": "Intermediate Software Development",
+        "years": "Nov 2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "React JS"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "React JS",
+          "Express",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "CSS 3",
+          "HTML 5",
+          "Terminal",
+          "Git"
         ]
       },
       {
-        "company": "The Intellekt Group",
-        "title": "Mission Coordinator",
-        "years": "Aug 2020 -  Aug 2022",
+        "company": "Code-201",
+        "title": "Foundations of Software Development",
+        "years": "Oct 2022",
         "mainTech": [
-          "Microsoft Excel"
+          "JavaScript"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
           "JavaScript",
-          "DHTMLX Gantt"
+          "CSS 3",
+          "HTML 5",
+          "Terminal",
+          "Git"
         ]
       },
       {
-        "company": "U.S. Air Force",
-        "title": "Flight Commander / Evaluator Surveillance Officer",
-        "years": "May 2012 - May 2020",
+        "company": "Code-102",
+        "title": "Intro to Software Development",
+        "years": "Sep 2022",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "CSS 3",
+          "HTML 5",
+          "Terminal",
+          "Git"
+        ]
+      },
+      {
+        "company": "Code-101",
+        "title": "Explore Software Development",
+        "years": "Aug 2022",
+        "mainTech": [
+          "HTML 5"
+        ],
+        "technologies": [
+          "CSS 3",
+          "HTML 5",
+          "Terminal",
+          "Git"
         ]
       }
     ]
