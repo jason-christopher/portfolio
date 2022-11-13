@@ -36,7 +36,7 @@ class Header extends Component {
     }, (props, prevProp) => true);
 
     return (
-      <header id="home" style={{ height: window.innerHeight - 100, display: 'block' }}>
+      <header id="home" style={{ height: '600px', display: 'block' }}>
         <a href="https://github.com/codefellows/cra-template-react-portfolio" target="_blank" rel="noreferrer" className="github-corner" aria-label="View source on GitHub">
           <svg width="90" height="90" viewBox="0 0 250 250" style={{ fill: '#151513', color: '#fff', position: 'absolute', top: 0, border: 0, left: 0, transform: 'scale(-1, 1)', zIndex: 9999 }} aria-hidden="true">
             <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path>
@@ -98,18 +98,19 @@ class Header extends Component {
             />
           </Nav.Item>
         </Nav>
-        <div className="row aligner" style={{height: '100%'}}>
+        <div className="row aligner" style={{height: '50%'}}>
           <div className="col-md-12">
             <div>
-              <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false"></span>
-              <br/>
               <h1 className="mb-0">
                 {name}
               </h1>
               <div className="title-container">
                 <HeaderTitleTypeAnimation />
               </div>
-              
+              {/* <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false"></span> */}
+              <div id="banner-div">
+                <img id="banner" src="images/Banner-Pic.jpeg" alt="banner-pic"/>
+              </div>
             </div>
           </div>
         </div>
